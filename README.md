@@ -55,6 +55,15 @@ The dataset was obtained from **Kaggle and originally sourced from the Internati
 
 ---
 
+## 📑 Project Documentation
+
+The full project explanation and presentation can be found here:
+
+- EV Sales Dashboard Presentation (PPT)
+- EV Sales Dashboard Presentation (PDF)
+
+---
+
 ## 📂 Project Workflow
 
 ### 1️⃣ Data Collection
