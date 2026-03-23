@@ -111,7 +111,7 @@ An interactive Excel dashboard was created featuring:
 ---
 
 ## 📸 Dashboard Preview
-![EV Sales Dashboard](screenshot/Dashboard.png)
+![EV Sales Dashboard](screenshot/dashboard.png)
 
 ---
 
